@@ -12,5 +12,5 @@ module.exports = {
     Pet: createPetModel(db),
     User: createUserModel(db),
   },
-  db
+  db,
 }
